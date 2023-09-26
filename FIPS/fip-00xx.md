@@ -61,9 +61,7 @@ struct ProveReplicaUpdateAggregateParams {
 
 #### Scale and limits
 
-**TODO:** how should the maximum aggregation limit be determined? 
-
-The number of sectors that may be proven in a single aggregation is a minimum of 3 and a maximum of **TODO**.
+The minimum of number of Sector Upgrade proofs that may be aggregated is 3 and maximum is 512.
 
 #### Gas calculations
 
