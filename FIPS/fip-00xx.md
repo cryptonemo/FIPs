@@ -80,7 +80,7 @@ Gas cost per Sector Upgrade proof aggregated: 80,000 gas
 Total step-wise gas cost for ranges of Sector Upgrade proofs aggregated:
 
 | SnapDeals Proofs | Groth16 Proofs |    Gas     |
-| -----------------|----------------|------------|
+|:----------------:|:--------------:|:----------:|
 |        3-8       |     48-128     | 86,500,000 |
 |       11-128     |    144-2048    | 91,300,000 |
 |      129-256     |   2064-4096    | 92,500,000 |
@@ -95,7 +95,7 @@ Gas cost per Sector Upgrade proof aggregated: 80,000 gas
 Total step-wise gas cost for ranges of Sector Upgrade proofs aggregated:
 
 | SnapDeals Proofs | Groth16 Proofs |    Gas     |
-| -----------------|----------------|------------|
+|:----------------:|:--------------:|:----------:|
 |       3-8        |     48-128     | 86,500,000 |
 |       9-128      |    144-2048    | 92,500,000 |
 |     129-256      |   2064-4096    | 94,000,000 |
